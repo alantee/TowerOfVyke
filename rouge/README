@@ -1,3 +1,7 @@
-Implement Explored FOV
+Tower of Vyke
 
-Open Up FoV once Map has been discovered?
+Rougelike turn based game created entirely in Go.
+
+Rendering Engine - Ebiten
+
+Entity Componenet System - ecs 
